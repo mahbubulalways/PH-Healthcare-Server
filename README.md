@@ -1,1 +1,3 @@
 # PH-Healthcare-Server
+
+.vscode
